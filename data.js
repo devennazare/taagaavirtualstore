@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-16",
-      "name": "16",
+      "name": "Entry gate ",
       "levels": [
         {
           "tileSize": 256,
@@ -36,7 +36,7 @@ var APP_DATA = {
     },
     {
       "id": "1-17",
-      "name": "17",
+      "name": "Lobby",
       "levels": [
         {
           "tileSize": 256,
@@ -101,7 +101,7 @@ var APP_DATA = {
     },
     {
       "id": "2-18",
-      "name": "18",
+      "name": "Full Suit & Anarkali",
       "levels": [
         {
           "tileSize": 256,
@@ -148,7 +148,7 @@ var APP_DATA = {
     },
     {
       "id": "3-19",
-      "name": "19",
+      "name": "Kurta & Saree",
       "levels": [
         {
           "tileSize": 256,
