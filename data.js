@@ -74,10 +74,10 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.9289732390207428,
+          "yaw": -0.8189732390207428,
           "pitch": -0.17887355338078592,
           "title": "INNERS",
-          "text": "Adding a little more to the elegance of your outfit, we have slips and inners that can be worn inside and won’t take away the look of your dress in case you decide to doll up in a georgette attire <a href='https://www.taagaa.in'>View More</a>"
+          "text": "Adding a little more to the elegance of your outfit, we have </br>slips and inners that can be worn inside and won’t take away the look of your dress in case you decide to doll up in a georgette attire <a href='https://www.taagaa.in'>View More</a>"
         },
         {
           "yaw": -0.37296723063164094,
