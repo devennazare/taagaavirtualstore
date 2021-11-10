@@ -74,28 +74,28 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.8189732390207428,
+          "yaw": -0.7889732390207428,
           "pitch": -0.17887355338078592,
           "title": "INNERS",
-          "text": "Adding a little more to the elegance of your outfit, we have </br>slips and inners that can be worn inside and won’t take away the look of your dress in case you decide to doll up in a georgette attire <a href='https://www.taagaa.in'>View More</a>"
+          "text": "Adding a little more to the elegance of your outfit, we have slips and inners that can be worn inside and won’t take away the look of your dress in case you decide to doll up in a georgette attire </br> <a href='https://taagaa.in/category/Slip-OR-Inners'><font color=\"#da9e3a\">Shop Inners</font></a>"
         },
         {
           "yaw": -0.37296723063164094,
           "pitch": -0.22599762023233083,
           "title": "BOTTOMS",
-          "text": "Our collection of pants will look appealing and feel elegant to wear at the same time. We offer from a mix of Salwar, Churidar, Trouser and Plazzo."
+          "text": "Our collection of pants will look appealing and feel elegant to wear at the same time. We offer from a mix of Salwar, Churidar, Trouser and Plazzo.</br> <a href='https://taagaa.in/category/Chikankari-Bottom-OR-Lower'><font color=\"#da9e3a\">Shop Bottoms</font></a>"
         },
         {
           "yaw": 0.268358007480199,
           "pitch": -0.24673715688845554,
           "title": "Masks",
-          "text": "We are ready for the new normal. Introducing to you face masks in different colors of cotton and silk fabric to suit your comfort and at the same time something that will match your outfit. "
+          "text": "We are ready for the new normal. Introducing to you face masks in different colors of cotton and silk fabric to suit your comfort and at the same time something that will match your outfit. </br> <a href='https://taagaa.in/category/Chikankari-Masks-Silk-OR-Cotton'><font color=\"#da9e3a\">Shop Masks</font></a>"
         },
         {
           "yaw": 0.8181621706229464,
           "pitch": -0.21894721196732547,
           "title": "Dupatta",
-          "text": "When talking about elegant designer wear, you can’t miss out on the dupatta. Every piece of dupatta stitched is done with detailing to give it the flawless look it deserves for your outfit."
+          "text": "When talking about elegant designer wear, you can’t miss out on the dupatta. Every piece of dupatta stitched is done with detailing to give it the flawless look it deserves for your outfit. </br> <a href='https://taagaa.in/category/Chikankari-Dupatta-Stitched'><font color=\"#da9e3a\">Shop Dupattas</font></a>"
         }
       ]
     },
@@ -136,13 +136,13 @@ var APP_DATA = {
           "yaw": -0.18393462703550867,
           "pitch": -0.40247034430458584,
           "title": "FULL SUIT",
-          "text": "<font color=\"#000000\" face=\"Montserrat-SemiBold\"><span style=\"letter-spacing: 1px;\">Got that desi feeling? We have it all! Presenting to you classic and beautiful suits that blends in just well for any occasion.</span></font><br><div><br></div>"
+          "text": "<font color=\"#fff\" face=\"Montserrat-SemiBold\"><span style=\"letter-spacing: 1px;\">Got that desi feeling? We have it all! Presenting to you classic and beautiful suits that blends in just well for any occasion.</span></font><br><div><br></div> </br> <a href='https://taagaa.in/category/Chikankari-Suit-and-Full-Suit-Fabric'><font color=\"#da9e3a\">Shop Suits</font></a>"
         },
         {
-          "yaw": 0.20002567261637338,
+          "yaw": 0.50002567261637338,
           "pitch": -0.4059261356436714,
           "title": "ANARKALI",
-          "text": "Ethnic dresses are truly dresses with a beautiful soul. You won't have to compromise on the design you like. We have a variety of semi-stitched anarkalis to give you the perfect fit and look of your choice."
+          "text": "Ethnic dresses are truly dresses with a beautiful soul. You won't have to compromise on the design you like. We have a variety of semi-stitched anarkalis to give you the perfect fit and look of your choice.</br><a href='https://taagaa.in/category/Chikankari-Anarkali-Semi-Stitched'><font color=\"#da9e3a\">Shop Anarkali</font></a>"
         }
       ]
     },
@@ -183,13 +183,13 @@ var APP_DATA = {
           "yaw": -0.24817063153655994,
           "pitch": -0.3894554347160497,
           "title": "KURTA",
-          "text": "When talking about elegant designer wear, you can’t miss out on the dupatta. Every piece of dupatta stitched is done with detailing to give it the flawless look it deserves for your outfit."
+          "text": "When talking about elegant designer wear, you can’t miss out on the dupatta. Every piece of dupatta stitched is done with detailing to give it the flawless look it deserves for your outfit. </br> <a href='https://taagaa.in/category/Chikankari-Kurta-Fabric'><font color=\"#da9e3a\">Shop Kurta</font></a>"
         },
         {
-          "yaw": 0.26915311819594834,
+          "yaw": 0.68915311819594834,
           "pitch": -0.376861545278528,
           "title": "SAREE",
-          "text": "Six yards of pure grace! Giving you a taste of georgette, chanderi and silk sarees with the touch of chikankari work done on them. A saree is always a good choice because it doesn’t need you to fit in but it makes you stand out."
+          "text": "Six yards of pure grace! Giving you a taste of georgette, chanderi and silk sarees with the touch of chikankari work done on them. A saree is always a good choice because it doesn’t need you to fit in but it makes you stand out.</br> <a href='https://taagaa.in/category/Chikankari-Sarees'><font color=\"#da9e3a\">Shop Sarees</font></a>"
         }
       ]
     }
