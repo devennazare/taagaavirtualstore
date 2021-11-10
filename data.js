@@ -74,10 +74,10 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -0.7189732390207428,
+          "yaw": -0.9289732390207428,
           "pitch": -0.17887355338078592,
           "title": "INNERS",
-          "text": "Adding a little more to the elegance of your outfit, we have slips and inners that can be worn inside and won’t take away the look of your dress in case you decide to doll up in a georgette attire"
+          "text": "Adding a little more to the elegance of your outfit, we have slips and inners that can be worn inside and won’t take away the look of your dress in case you decide to doll up in a georgette attire <a href='https://www.taagaa.in'>View More</a>"
         },
         {
           "yaw": -0.37296723063164094,
@@ -86,13 +86,13 @@ var APP_DATA = {
           "text": "Our collection of pants will look appealing and feel elegant to wear at the same time. We offer from a mix of Salwar, Churidar, Trouser and Plazzo."
         },
         {
-          "yaw": 0.367358007480199,
+          "yaw": 0.268358007480199,
           "pitch": -0.24673715688845554,
           "title": "Masks",
-          "text": "We are ready for the new normal. Introducing to you face masks in different colors of cotton and silk fabric to suit your comfort and at the same time something that will match your outfit."
+          "text": "We are ready for the new normal. Introducing to you face masks in different colors of cotton and silk fabric to suit your comfort and at the same time something that will match your outfit. "
         },
         {
-          "yaw": 0.7181621706229464,
+          "yaw": 0.8181621706229464,
           "pitch": -0.21894721196732547,
           "title": "Dupatta",
           "text": "When talking about elegant designer wear, you can’t miss out on the dupatta. Every piece of dupatta stitched is done with detailing to give it the flawless look it deserves for your outfit."
